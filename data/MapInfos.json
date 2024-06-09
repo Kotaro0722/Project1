@@ -1,14 +1,14 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":549},
-{"id":2,"expanded":true,"name":"111と食堂の庭","order":4,"parentId":1,"scrollX":1749.818181818182,"scrollY":1421.4545454545455,"quick":false},
-{"id":3,"expanded":true,"name":"学校廊下","order":5,"parentId":2,"scrollX":1749.818181818182,"scrollY":978.5454545454546,"quick":false},
-{"id":4,"expanded":true,"name":"111教室","order":6,"parentId":3,"scrollX":1749.818181818182,"scrollY":978.5454545454546,"quick":false},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1749.818181818182,"scrollY":978.5454545454546},
+{"id":2,"expanded":true,"name":"111と食堂の庭","order":4,"parentId":1,"scrollX":832,"scrollY":1422,"quick":false},
+{"id":3,"expanded":true,"name":"学校廊下","order":5,"parentId":2,"scrollX":1750,"scrollY":624,"quick":false},
+{"id":4,"expanded":true,"name":"111教室","order":6,"parentId":3,"scrollX":1072,"scrollY":810,"quick":false},
 {"id":5,"expanded":false,"name":"アンダーテール","order":10,"parentId":1,"scrollX":1749.818181818182,"scrollY":978.5454545454546,"quick":false},
-{"id":6,"expanded":true,"name":"食堂前廊下","order":7,"parentId":2,"scrollX":1069.3333333333333,"scrollY":598,"quick":false},
+{"id":6,"expanded":true,"name":"食堂前廊下","order":7,"parentId":2,"scrollX":816,"scrollY":624,"quick":false},
 {"id":7,"expanded":true,"name":"食堂","order":8,"parentId":6,"scrollX":962.4,"scrollY":538.1999999999999,"quick":false},
 {"id":8,"expanded":false,"name":"アイテムショップ","order":9,"parentId":7,"scrollX":1749.818181818182,"scrollY":978.5454545454546,"quick":false},
-{"id":9,"expanded":true,"name":"家","order":2,"parentId":1,"scrollX":1749.818181818182,"scrollY":978.5454545454546,"quick":false},
+{"id":9,"expanded":true,"name":"家","order":2,"parentId":1,"scrollX":816,"scrollY":624,"quick":false},
 {"id":10,"expanded":false,"name":"エンディングS","order":12,"parentId":0,"scrollX":816,"scrollY":624,"quick":false},
 {"id":11,"expanded":false,"name":"エンディングA","order":13,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":12,"expanded":false,"name":"エンディングB","order":14,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
@@ -16,5 +16,5 @@ null,
 {"id":14,"expanded":false,"name":"エンディングD","order":16,"parentId":0,"scrollX":816,"scrollY":624,"quick":false},
 {"id":15,"expanded":false,"name":"酒場","order":11,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
 null,
-{"id":17,"expanded":false,"name":"家から大学","order":3,"parentId":9,"scrollX":1767.2727272727273,"scrollY":998.1818181818182,"quick":false}
+{"id":17,"expanded":false,"name":"家から大学","order":3,"parentId":9,"scrollX":1568,"scrollY":978,"quick":false}
 ]

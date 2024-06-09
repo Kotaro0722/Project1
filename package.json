@@ -3,9 +3,9 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "",
-        "width": 816,
-        "height": 624,
+        "title": "大学に行こう",
+        "width": 1632,
+        "height": 1248,
         "position": "center",
         "icon": "icon/icon.png"
     }
